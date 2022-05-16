@@ -1,0 +1,37 @@
+body { font-family: 'Source Sans Pro', sans-serif !important; 
+background-color: #67B9FF; }
+form {
+  margin: auto;
+  width: 50%;
+  border: 3px; 
+  padding: 10px;
+}
+
+.row {
+  display: inline-block;
+}
+
+.column {  
+  flex: 25%;
+  padding: 0 12px 60px 12px;
+}
+
+.container {  
+  padding: 0px;
+}
+
+.attivo {
+    text-decoration: none;
+    color: black;
+    font-size: 1.5em;
+    margin-left: 22px;
+    line-height: 4em;     
+}
+footer {
+  background-color: #F7F9FA; 
+}
+.sfondomenu {
+  background-color: #10739E !important;
+   
+}
+/*CAPISCI COME METTERLO Sticky*/
