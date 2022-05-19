@@ -15,6 +15,13 @@ form {
   flex: 25%;
   padding: 0 12px 60px 12px;
 }
+#logo {
+  margin-right: none;
+}
+div.collapse {
+padding-left: none;
+display: left;
+}
 
 .container {  
   padding: 0px;
@@ -26,6 +33,12 @@ form {
     font-size: 1.5em;
     margin-left: 22px;
     line-height: 4em;     
+}
+#footer {
+  line-height: 8em;
+}
+ul li {
+  display: inline-block;
 }
 footer {
   background-color: #F7F9FA; 
